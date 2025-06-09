@@ -120,4 +120,3 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 ## 📄 License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-*(Placeholder: Remember to create a `LICENSE` file in your repository if you haven't already. MIT License is a common and permissive choice.)*
