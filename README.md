@@ -50,7 +50,7 @@ To get this simulator up and running on your local machine, follow these simple 
 
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Network-Security-IDS-Simulator.git](https://github.com/YourUsername/Network-Security-IDS-Simulator.git)
+    git clone [https://github.com/sammyifelse/IDS-Env.git](https://github.com/sammyifelse/IDS-Env.git)
     cd Network-Security-IDS-Simulator
     ```
     *(Replace `YourUsername` with your actual GitHub username)*
