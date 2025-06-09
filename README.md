@@ -18,9 +18,7 @@ It's an ideal project for:
 This simulator brings key network security concepts to life through compelling visualizations:
 
 * **Customizable Network Topology:** Simulates a basic network infrastructure including a Firewall, Web Server, Database, User PC, and an Attacker.
-* **Intuitive Node Visualization:**
-    * **Distinct Roles:** Each network device (e.g., Server, User PC, Firewall, Attacker) is visually differentiated by unique colors, sizes, and a clear text icon (e.g., 'F' for Firewall, 'W' for Web Server) for instant recognition.
-    * **Network Zones:** Clearly segments the network into "Internal Network" (your protected assets) and "Internet/External" (the threat landscape) zones using subtle background coloring and labels.
+background coloring and labels.
     * **Firewall Prominence:** The central Firewall node is visibly larger and uniquely colored, emphasizing its critical role as a security gateway.
 * **Dynamic Packet Visualization:**
     * **Normal Traffic:** Green, circular packets represent legitimate data flow between network nodes, showing everyday operations.
@@ -51,9 +49,8 @@ To get this simulator up and running on your local machine, follow these simple 
 2.  **Clone the Repository:**
     ```bash
     git clone [https://github.com/sammyifelse/IDS-Env.git](https://github.com/sammyifelse/IDS-Env.git)
-    cd Network-Security-IDS-Simulator
+    cd IDS-ENV
     ```
-    *(Replace `YourUsername` with your actual GitHub username)*
 
 3.  **Install Dependencies:**
     This project uses `pygame` for graphics.
@@ -65,7 +62,6 @@ To get this simulator up and running on your local machine, follow these simple 
     ```bash
     python main.py
     ```
-    *(Ensure your main script is named `main.py` as in the example code you provided. If it's named something else, adjust the command.)*
 
 ## 🕹️ How to Use & Demo
 
